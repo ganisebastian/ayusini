@@ -1,8 +1,8 @@
 <?php
 
 $server = "localhost";
-$user = "root";
+$user = "ganisebastian";
 $password = "";
-$database = "dbquran";
+$database = "Lupalupa123$$$";
 
 $konek = mysqli_connect($server, $user, $password, $database) or die (mysqli_error($konek));
